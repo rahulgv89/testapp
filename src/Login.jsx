@@ -16,7 +16,7 @@ const Login = ({setLoggedIn, setEmail}) => {
   }
 
   return (
-    <div>
+    <div className="page">
       <div>
         <div className="login-header">Login</div>
       </div>
